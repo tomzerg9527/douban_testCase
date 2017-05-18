@@ -1,0 +1,72 @@
+1495087392318	geckodriver	INFO	Listening on 127.0.0.1:58347
+1495087393387	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495087397595	Marionette	INFO	Listening on port 38759
+1495087397643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495087502869	geckodriver	INFO	Listening on 127.0.0.1:39579
+1495087503938	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495087507958	Marionette	INFO	Listening on port 46059
+1495087508088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495087572549	geckodriver	INFO	Listening on 127.0.0.1:48807
+1495087573620	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495087577516	Marionette	INFO	Listening on port 34929
+1495087577685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495087670986	geckodriver	INFO	Listening on 127.0.0.1:59389
+1495087672059	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495087675980	Marionette	INFO	Listening on port 37051
+1495087676386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495087713355	geckodriver	INFO	Listening on 127.0.0.1:36761
+1495087714424	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495087718353	Marionette	INFO	Listening on port 44277
+1495087718454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495087792190	geckodriver	INFO	Listening on 127.0.0.1:47585
+1495087793262	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495087797109	Marionette	INFO	Listening on port 42279
+1495087797194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495087861806	geckodriver	INFO	Listening on 127.0.0.1:47545
+1495087862876	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495087866816	Marionette	INFO	Listening on port 41411
+1495087866934	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1495087940420	geckodriver	INFO	Listening on 127.0.0.1:40663
+1495087941493	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495087945528	Marionette	INFO	Listening on port 45899
+1495087945647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495088010981	geckodriver	INFO	Listening on 127.0.0.1:58705
+1495088012051	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495088016851	Marionette	INFO	Listening on port 36313
+1495088017259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400A8,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1495088180736	geckodriver	INFO	Listening on 127.0.0.1:47957
+1495088181803	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495088186366	Marionette	INFO	Listening on port 34889
+1495088186512	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1495089099766	geckodriver	INFO	Listening on 127.0.0.1:49657
+1495089100839	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495089104643	Marionette	INFO	Listening on port 46421
+1495089104839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495089146830	geckodriver	INFO	Listening on 127.0.0.1:38279
+1495089147898	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495089152166	Marionette	INFO	Listening on port 34667
+1495089152230	Marionette	WARN	TLS certificate errors will be ignored for this session
